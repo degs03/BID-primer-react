@@ -11,7 +11,7 @@ root.render(
   <React.StrictMode>
     <App />
     <Titulocomponent/> 
-    <Listcomponent/>
+    <Listcomponent Names={"Dario"} Apellido={"Gimenez"}/>
   </React.StrictMode>
 );
 
